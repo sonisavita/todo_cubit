@@ -1,16 +1,30 @@
 # to_do_cubit
 
-A new Flutter project.
+A simple Todo application built using Flutter and the Cubit state management library. This app allows users to create, read, update, and delete todo items efficiently.
+
+## Features
+
+- Add new todo items
+- Edit existing todo items
+- Delete todo items
+
+## Technologies Used
+
+- **Flutter**: Framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Cubit**: A lightweight state management solution that makes it easy to manage and update your application state.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy of the project up and running, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK installed on your machine
+- Dart SDK installed (comes with Flutter)
+- An IDE like Android Studio or Visual Studio Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sonisavita/todo_cubit.git
