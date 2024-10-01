@@ -1,6 +1,6 @@
 # to_do_cubit
 
-A simple Todo application built using Flutter and the Cubit state management library. This app allows users to create, read, update, and delete todo items efficiently.
+A simple Todo application built using Flutter and the Cubit state management library. This app allows users to create, read todo items efficiently.
 
 ## Features
 
