@@ -5,8 +5,6 @@ A simple Todo application built using Flutter and the Cubit state management lib
 ## Features
 
 - Add new todo items
-- Edit existing todo items
-- Delete todo items
 
 ## Technologies Used
 
